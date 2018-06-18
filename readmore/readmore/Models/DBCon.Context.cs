@@ -32,5 +32,6 @@ namespace readmore.Models
         public virtual DbSet<User_News> User_News { get; set; }
         public virtual DbSet<User> Users { get; set; }
         public virtual DbSet<Winner> Winners { get; set; }
+        public virtual DbSet<Tour> Tours { get; set; }
     }
 }

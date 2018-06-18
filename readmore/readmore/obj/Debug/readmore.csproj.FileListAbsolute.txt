@@ -69,3 +69,7 @@ C:\Users\Dave\Documents\GitHub\readmore-back\readmore\readmore\obj\Debug\readmor
 C:\Users\Dave\Documents\GitHub\readmore-back\readmore\readmore\obj\Debug\readmore.csproj.CopyComplete
 C:\Users\Dave\Documents\GitHub\readmore-back\readmore\readmore\obj\Debug\readmore.dll
 C:\Users\Dave\Documents\GitHub\readmore-back\readmore\readmore\obj\Debug\readmore.pdb
+C:\Users\Dave\Documents\GitHub\readmore-back\readmore\readmore\bin\EntityFramework.dll
+C:\Users\Dave\Documents\GitHub\readmore-back\readmore\readmore\bin\EntityFramework.SqlServer.dll
+C:\Users\Dave\Documents\GitHub\readmore-back\readmore\readmore\bin\EntityFramework.xml
+C:\Users\Dave\Documents\GitHub\readmore-back\readmore\readmore\bin\EntityFramework.SqlServer.xml

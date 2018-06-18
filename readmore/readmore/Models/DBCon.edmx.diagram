@@ -5,15 +5,17 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="eb938cec109d4d448607e6189257058a" Name="Diagram1">
-        <EntityTypeShape EntityType="ReadmoreModel.Book" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ReadmoreModel.Book" Width="1.5" PointX="2.625" PointY="3.875" IsExpanded="true" />
         <EntityTypeShape EntityType="ReadmoreModel.News" Width="1.5" PointX="0.75" PointY="0.875" IsExpanded="true" />
-        <EntityTypeShape EntityType="ReadmoreModel.Season" Width="1.5" PointX="4.75" PointY="4.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="ReadmoreModel.sysdiagram" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="ReadmoreModel.User_News" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
-        <EntityTypeShape EntityType="ReadmoreModel.User" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
-        <EntityTypeShape EntityType="ReadmoreModel.Winner" Width="1.5" PointX="6.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ReadmoreModel.Season" Width="1.5" PointX="4.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ReadmoreModel.sysdiagram" Width="1.5" PointX="4.875" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ReadmoreModel.User_News" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ReadmoreModel.User" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ReadmoreModel.Winner" Width="1.5" PointX="6.625" PointY="3.625" IsExpanded="true" />
         <AssociationConnector Association="ReadmoreModel.FK_User_News_News" ManuallyRouted="false" />
         <AssociationConnector Association="ReadmoreModel.FK_User_News_Users" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="ReadmoreModel.Tour" Width="1.5" PointX="6.875" PointY="0.875" />
+        <AssociationConnector Association="ReadmoreModel.FK_Tours_Seasons" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
