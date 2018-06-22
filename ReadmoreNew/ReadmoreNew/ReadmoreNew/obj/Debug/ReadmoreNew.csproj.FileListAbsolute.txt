@@ -18,16 +18,13 @@ C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\Microsoft.Win32.Primitives.dll
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.AppContext.dll
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.Collections.Immutable.dll
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.Console.dll
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.Diagnostics.Process.dll
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.Diagnostics.StackTrace.dll
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.IO.Compression.dll
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.IO.FileSystem.Primitives.dll
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.IO.Pipes.dll
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.Reflection.Metadata.dll
@@ -39,7 +36,6 @@ C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.Security.Principal.Windows.dll
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.Threading.Thread.dll
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.ValueTuple.dll
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.Xml.ReaderWriter.dll
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.Xml.XmlDocument.dll
@@ -108,9 +104,7 @@ C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\Microsoft.ApplicationInsights.xml
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\Microsoft.AI.Web.xml
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\obj\Debug\ReadmoreNew.csprojResolveAssemblyReference.cache
@@ -120,3 +114,9 @@ C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\obj\Debug\ReadmoreNew.pdb
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\obj\Debug\ReadmoreNew.Migrations.InitialCreate.resources
 C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\obj\Debug\ReadmoreNew.csproj.GenerateResource.cache
+C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Dave\Documents\GitHub\readmore-back\ReadmoreNew\ReadmoreNew\ReadmoreNew\bin\System.Diagnostics.DiagnosticSource.xml

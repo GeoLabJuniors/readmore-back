@@ -54,9 +54,9 @@ namespace ReadmoreNew
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+               appId: "640591592970014",
+               appSecret: "8fcfab36cf04327f1cc29d6d48664975");
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{
